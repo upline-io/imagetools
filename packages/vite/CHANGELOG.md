@@ -1,5 +1,13 @@
 # Change Log
 
+## 4.0.10
+
+### Patch Changes
+
+- 92b2fa3: chore(deps): update dependency @types/sharp to ^0.31.0
+- 80250db: Update package READMEs and metadata.
+- 43de653: Let vite create correct paths in build result
+
 ## 4.0.9
 
 ### Patch Changes
