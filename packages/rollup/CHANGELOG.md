@@ -1,5 +1,12 @@
 # Change Log
 
+## 3.0.11
+
+### Patch Changes
+
+- 92b2fa3: chore(deps): update dependency @types/sharp to ^0.31.0
+- 80250db: Update package READMEs and metadata.
+
 ## 3.0.10
 
 ### Patch Changes
