@@ -1,5 +1,5 @@
 {
-  "name": "vite-imagetools",
+  "name": "@upline-io/vite-imagetools",
   "description": "Load and transform images using a toolbox of import directives!",
   "version": "4.0.9",
   "main": "dist/index.cjs",

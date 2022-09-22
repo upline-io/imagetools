@@ -1,5 +1,5 @@
 {
-  "name": "imagetools-core",
+  "name": "@upline-io/imagetools-core",
   "version": "3.2.1",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
